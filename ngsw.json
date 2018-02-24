@@ -1,0 +1,39 @@
+{
+  "configVersion": 1,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/inline.318b50c57b4eba3d437b.bundle.js",
+        "/main.cf7be6c0e72d15315e74.bundle.js",
+        "/polyfills.e6a38c81e50caff3d0e6.bundle.js",
+        "/styles.ac89bfdd6de82636b768.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/teste.json"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "/assets/teste.json": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/main.cf7be6c0e72d15315e74.bundle.js": "774604e06bcca45d793e90c509de3edda1c4f288",
+    "/polyfills.e6a38c81e50caff3d0e6.bundle.js": "3ff31a977b3f6596bce681cd4352c5abe935cf9f",
+    "/styles.ac89bfdd6de82636b768.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/index.html": "68322ff208952e26f8d58ef8b3f3d45228df2c59"
+  }
+}

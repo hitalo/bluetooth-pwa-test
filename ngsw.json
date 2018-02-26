@@ -1,18 +1,18 @@
 {
   "configVersion": 1,
-  "index": "/index.html",
+  "index": "https://hitalo.github.io/bluetooth-pwa-test/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/inline.318b50c57b4eba3d437b.bundle.js",
-        "/main.5797f9ddfe0bd1ebd807.bundle.js",
-        "/polyfills.e6a38c81e50caff3d0e6.bundle.js",
-        "/styles.ac89bfdd6de82636b768.bundle.css"
+        "https://hitalo.github.io/bluetooth-pwa-test/favicon.ico",
+        "https://hitalo.github.io/bluetooth-pwa-test/index.html",
+        "https://hitalo.github.io/bluetooth-pwa-test/inline.318b50c57b4eba3d437b.bundle.js",
+        "https://hitalo.github.io/bluetooth-pwa-test/main.5797f9ddfe0bd1ebd807.bundle.js",
+        "https://hitalo.github.io/bluetooth-pwa-test/polyfills.e6a38c81e50caff3d0e6.bundle.js",
+        "https://hitalo.github.io/bluetooth-pwa-test/styles.ac89bfdd6de82636b768.bundle.css"
       ],
       "patterns": []
     },
@@ -21,19 +21,19 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/assets/teste.json"
+        "https://hitalo.github.io/bluetooth-pwa-test/assets/teste.json"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
-    "/assets/teste.json": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-    "/main.5797f9ddfe0bd1ebd807.bundle.js": "52f0f071343b683b01f96309867824c83fc018d3",
-    "/polyfills.e6a38c81e50caff3d0e6.bundle.js": "3ff31a977b3f6596bce681cd4352c5abe935cf9f",
-    "/styles.ac89bfdd6de82636b768.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "6e254ee3083ac89664af1ae201527dc45af52e93"
+    "https://hitalo.github.io/bluetooth-pwa-test/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "https://hitalo.github.io/bluetooth-pwa-test/assets/teste.json": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "https://hitalo.github.io/bluetooth-pwa-test/main.5797f9ddfe0bd1ebd807.bundle.js": "52f0f071343b683b01f96309867824c83fc018d3",
+    "https://hitalo.github.io/bluetooth-pwa-test/polyfills.e6a38c81e50caff3d0e6.bundle.js": "3ff31a977b3f6596bce681cd4352c5abe935cf9f",
+    "https://hitalo.github.io/bluetooth-pwa-test/styles.ac89bfdd6de82636b768.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "https://hitalo.github.io/bluetooth-pwa-test/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://hitalo.github.io/bluetooth-pwa-test/index.html": "b0e0b45fc7e2b6207a666c8bd4dd103d86ed3610"
   }
 }

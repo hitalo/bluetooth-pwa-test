@@ -31,6 +31,7 @@ export class BluetoothTestComponent implements OnInit {
 
           if(device) {
             this.device = device;
+            console.log("name: ", device.name);
           }
           else {
             // device not connected or disconnected

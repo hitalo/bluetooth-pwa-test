@@ -1,15 +1,15 @@
 import { TestBed, inject } from '@angular/core/testing';
 
-import { BluetoothServiceService } from './bluetooth-service.service';
+import { BluetoothService } from './bluetooth-service.service';
 
 describe('BluetoothServiceService', () => {
   beforeEach(() => {
     TestBed.configureTestingModule({
-      providers: [BluetoothServiceService]
+      providers: [BluetoothService]
     });
   });
 
-  it('should be created', inject([BluetoothServiceService], (service: BluetoothServiceService) => {
+  it('should be created', inject([BluetoothService], (service: BluetoothService) => {
     expect(service).toBeTruthy();
   }));
 });
